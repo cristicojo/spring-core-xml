@@ -1,3 +1,5 @@
 /.idea
 springcorexml.iml
 src/test
+target
+.DS_Store
